@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guevarajp, but you can call me Jonathan
 - 👀 I’m interested in software engineering for healthcare
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on improving healthcare systems with software engineering.
 - 📫 How to reach me: jonathanpaulguevara@gmail.com
 
 <!---
